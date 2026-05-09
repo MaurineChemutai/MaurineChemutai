@@ -105,9 +105,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
 </a>
 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
-</a>
 
 </p>
 
@@ -131,13 +128,9 @@ Python • Deep Learning • CNNs • TensorFlow • OpenCV
 
 ---
 
-## 💧 Water4Wildlife Maasai Mara Foundation
-Sustainable clean water infrastructure initiative supporting wildlife conservation and local communities in the Maasai Mara region.
-
-### 🔹 Focus Areas
-Sustainability • Community Impact • Conservation • Data-Driven Planning
 
 ---
+# 📈 GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaurineChemutai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
