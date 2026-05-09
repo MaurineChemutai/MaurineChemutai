@@ -37,29 +37,78 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Languages and Tools
 
-## 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
+<h3 align="left">Programming Languages</h3>
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
+</a>
 </p>
 
-## 📚 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+---
+
+<h3 align="left">Data Science & AI</h3>
+
+<p align="left">
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
+</a>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
+---
 
-## ☁️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+<h3 align="left">Developer Tools & Platforms</h3>
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
+</a>
+
 </p>
 
 ---
@@ -78,19 +127,22 @@ Python • Machine Learning • Data Analytics • Predictive Modeling
 AI-powered traffic sign and road safety intelligence system focused on improving road safety using computer vision and machine learning.
 
 ### 🔹 Technologies
-Python • Deep Learning • CNNs • TensorFlow • Computer Vision
+Python • Deep Learning • CNNs • TensorFlow • OpenCV
 
 ---
 
+## 💧 Water4Wildlife Maasai Mara Foundation
+Sustainable clean water infrastructure initiative supporting wildlife conservation and local communities in the Maasai Mara region.
+
+### 🔹 Focus Areas
+Sustainability • Community Impact • Conservation • Data-Driven Planning
 
 ---
-
-# 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaurineChemutai&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaurineChemutai&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaurineChemutai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaurineChemutai&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
